@@ -54,7 +54,11 @@ background-image: url("../img/mt.jpg")
     float: right;
     margin-top: 250px;
 }
-.nav-dropdown{display:none; position:absolute;width:150px;background-image:url("../img/mt.jpg")}
+.nav-dropdown{display:none;
+    position:absolute;
+    width:150px;
+    background-image:url("../img/mt.jpg")
+    }
 li:hover .nav-dropdown{display:block}
 
 /*** COLORS ***/
@@ -285,3 +289,10 @@ a{color:inherit;text-decoration:none}
 .foot-lnk{
     text-align:center;
 }
+.extractors{
+    display: inline;
+    text-align: center;
+    padding: 10px;
+
+}
+.tr
