@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="107acf95-d62b-4bd0-8828-cd6a5aa9a178" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/10pjacketedwdiptube.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10x10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6x6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cl10p.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cust cl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accessories.html" beforeDir="false" afterPath="$PROJECT_DIR$/accessories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c02.html" beforeDir="false" afterPath="$PROJECT_DIR$/c02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc.html" beforeDir="false" afterPath="$PROJECT_DIR$/cc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ccle.html" beforeDir="false" afterPath="$PROJECT_DIR$/ccle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cl.html" beforeDir="false" afterPath="$PROJECT_DIR$/cl.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kits.html" beforeDir="false" afterPath="$PROJECT_DIR$/kits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labeq.html" beforeDir="false" afterPath="$PROJECT_DIR$/labeq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ob.html" beforeDir="false" afterPath="$PROJECT_DIR$/ob.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pumps.html" beforeDir="false" afterPath="$PROJECT_DIR$/pumps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sift.html" beforeDir="false" afterPath="$PROJECT_DIR$/sift.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sol.html" beforeDir="false" afterPath="$PROJECT_DIR$/sol.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vacuums.html" beforeDir="false" afterPath="$PROJECT_DIR$/vacuums.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ccle.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ccle.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ccle.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="698">
-              <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
+            <state relative-caret-position="834">
+              <caret line="108" column="8" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -125,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="312" column="4" selection-start-line="312" selection-start-column="4" selection-end-line="312" selection-end-column="4" />
+            <state relative-caret-position="-274">
+              <caret line="163" column="22" selection-start-line="163" selection-start-column="22" selection-end-line="163" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -193,10 +172,10 @@
         <option value="$PROJECT_DIR$/10pjacketed.html" />
         <option value="$PROJECT_DIR$/10pjacketedwdiptube.html" />
         <option value="$PROJECT_DIR$/6x6.html" />
-        <option value="$PROJECT_DIR$/ccle.html" />
         <option value="$PROJECT_DIR$/cl.html" />
         <option value="$PROJECT_DIR$/extractors.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/ccle.html" />
       </list>
     </option>
   </component>
@@ -209,7 +188,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="863" />
@@ -310,7 +289,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77112000" />
+    <option name="totallyTimeSpent" value="78808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -662,16 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ccle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="698">
-          <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cl.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="681">
@@ -701,8 +670,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="312" column="4" selection-start-line="312" selection-start-column="4" selection-end-line="312" selection-end-column="4" />
+        <state relative-caret-position="-274">
+          <caret line="163" column="22" selection-start-line="163" selection-start-column="22" selection-end-line="163" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ccle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="108" column="8" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
